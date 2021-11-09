@@ -6,9 +6,6 @@
 ## Cronograma previsto
 <a href="https://github.com/CarvGuilherme/Projeto-final/projects/1">Cronograma Previsto<a>
 
-## Colaboradores
-[Adicionar os integrantes do grupo]
-
 ## Backlog do Produto 
 <a href="https://github.com/CarvGuilherme/Projeto-final/projects/2">Backlog<a>
 
@@ -26,3 +23,17 @@
 
 ## Modelo Relacional da base de dados do sistema.
 [Adicionar um link ou imagem.]
+
+## Colaboradores
+ <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+   <tr>
+<table>
+     <td align="center"><a href="https://github.com/WillianGomesSoares"><img src="https://avatars.githubusercontent.com/u/89430965?v=4" width="100px;" alt=""/><br /><sub><b>Willian G. Soares</b></sub></a><br /></td>
+   <tr>
+<table
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+    
+<!-- ALL-CONTRIBUTORS-LIST:END -->
