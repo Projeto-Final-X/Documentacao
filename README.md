@@ -4,7 +4,7 @@
 [Adicionar um link para definições e siglas]
  
 ## Cronograma previsto
-[adicionar um link com o cronograma]
+<a href="https://github.com/CarvGuilherme/Projeto-final/projects/1">Cronograma Previsto<a>
 
 ## Colaboradores
 [Adicionar os integrantes do grupo]
