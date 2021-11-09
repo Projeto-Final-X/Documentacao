@@ -1,4 +1,5 @@
 ## Objetivo do Sistema
+  O objetivo deste trabalho é desenvolver um jogo de perguntas e respostas.
 
 ## Definições e Siglas
 [Adicionar um link para definições e siglas]
