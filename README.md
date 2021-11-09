@@ -1,11 +1,11 @@
+## Objetivo do Sistema
 
-# Objetivo do Sistema
-
-# Definições e Siglas
+## Definições e Siglas
 [Adicionar um link para definições e siglas]
-# Cronograma previsto
+ 
+## Cronograma previsto
 [adicionar um link com o cronograma]
-# Colaboradores
+## Colaboradores
 Adicionar os integrantes do grupo
 Backlog do Produto 
 Montar um kanban com ID, Nome, Importância, PH, Demonstrar, Notas
