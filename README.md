@@ -31,6 +31,8 @@
    <tr>
 <table>
      <td align="center"><a href="https://github.com/WillianGomesSoares"><img src="https://avatars.githubusercontent.com/u/89430965?v=4" width="100px;" alt=""/><br /><sub><b>Willian G. Soares</b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/luanvictorms"><img src="https://avatars.githubusercontent.com/u/89430965?v=4" width="100px;" alt=""/><br /><sub><b>Willian G. Soares</b></sub></a><br /></td>
+      
    <tr>
 <table
 <!-- markdownlint-restore -->
