@@ -10,7 +10,7 @@
 <a href="https://github.com/CarvGuilherme/Projeto-final/projects/2">Backlog<a>
 
 ## Sprints
-[Definir e descrever os Sprints no Kanban.]
+<a href="https://github.com/CarvGuilherme/Projeto-final/projects/6">Sprints<a>
 
 ## Diagrama de Casos de uso do sistema.
 [Adicionar um link ou imagem.]
