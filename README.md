@@ -10,7 +10,7 @@
 [Adicionar os integrantes do grupo]
 
 ## Backlog do Produto 
-[Montar um kanban com ID, Nome, Importância, PH, Demonstrar, Notas]
+<a href="https://github.com/CarvGuilherme/Projeto-final/projects/2">Backlog<a>
 
 ## Sprints
 [Definir e descrever os Sprints no Kanban.]
