@@ -33,6 +33,7 @@
 <table>
      <td align="center"><a href="https://github.com/WillianGomesSoares"><img src="https://avatars.githubusercontent.com/u/89430965?v=4" width="100px;" alt=""/><br /><sub><b>Willian G. Soares</b></sub></a><br /></td>
      <td align="center"><a href="https://github.com/luanvictorms"><img src="https://avatars.githubusercontent.com/u/82541610?s=400&u=0a6dcb49715c66927cadc3823cf73d24fb5ad06d&v=4" width="100px;" alt=""/><br /><sub><b>Luan Victor M. Santiago</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/CarvGuilherme"><img src="https://avatars.githubusercontent.com/u/71442931?v=4" width="100px;" alt=""/><br /><sub><b>Guilherme Carvalho</b></sub></a><br /></td>
       
    <tr>
 <table
