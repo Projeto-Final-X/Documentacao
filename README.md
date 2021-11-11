@@ -14,10 +14,10 @@
 <a href="https://github.com/CarvGuilherme/Projeto-final/projects/6">Sprints<a>
 
 ## Diagrama de Casos de uso do sistema.
-[Adicionar um link ou imagem.]
+[Adicionar um link ou imagem.](finalizado)
 
 ## Diagrama de Classes do sistema.
-[Adicionar um link ou imagem.]
+[Adicionar um link ou imagem.](não Finalizado)
 
 ## Modelo Entidade Relacionamento da base de dados do sistema.
 [Adicionar um link ou imagem.]
