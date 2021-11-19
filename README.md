@@ -18,6 +18,7 @@
 
 ## Diagrama de Casos de uso do sistema.
 [Adicionar um link ou imagem.] (finalizado)
+![image](https://user-images.githubusercontent.com/94077514/142695987-f948c341-45f9-498d-8be9-3fe27ed5cdfe.png)
 
 ## Diagrama de Classes do sistema.
 [Adicionar um link ou imagem.] (não Finalizado)
