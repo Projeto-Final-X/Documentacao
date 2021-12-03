@@ -17,17 +17,16 @@
 <a href="https://github.com/CarvGuilherme/Projeto-final/projects/6">Sprints<a>
 
 ## Diagrama de Casos de uso do sistema.
-
-![image](https://user-images.githubusercontent.com/94077514/142695987-f948c341-45f9-498d-8be9-3fe27ed5cdfe.png)
+![CasosDeUso_Projeto_Final drawio](https://user-images.githubusercontent.com/89430965/144533287-200e3930-a89b-432d-bc84-9abad0ee5fe2.png)
 
 ## Diagrama de Classes do sistema.
-[Adicionar um link ou imagem.] (não Finalizado)
+![Classes_Projeto_Final drawio](https://user-images.githubusercontent.com/89430965/144534382-2e9be61b-3008-408b-8a6a-03e7e578928e.png)
 
 ## Modelo Entidade Relacionamento da base de dados do sistema.
-[Adicionar um link ou imagem.]
+![MER Projeto](https://user-images.githubusercontent.com/89430965/144533703-7eb2add3-9c35-4b2c-aaf2-6aa5a6656056.png)
 
 ## Modelo Relacional da base de dados do sistema.
-[Adicionar um link ou imagem.]
+![Lógico Projeto](https://user-images.githubusercontent.com/89430965/144533722-a1a2fe64-fec8-44d9-b769-85b0dd5b9054.png)
 
 ## Colaboradores
  <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
